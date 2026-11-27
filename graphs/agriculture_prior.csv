@@ -1,0 +1,11 @@
+﻿,air_temperature,rainfall,wind_speed,soil_temp_5cm,soil_temp_20cm,soil_moisture_5cm,soil_moisture_20cm,solar_radiation,relative_humidity,sunshine_duration
+air_temperature,1.0,0.5,0.5,1.0,1.0,0.5,0.5,0.5,0.5,0.5
+rainfall,0.5,1.0,0.5,0.5,0.5,1.0,1.0,0.5,0.5,0.5
+wind_speed,0.5,0.5,1.0,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+soil_temp_5cm,0.1,0.1,0.1,1.0,1.0,0.5,0.5,0.5,0.5,0.5
+soil_temp_20cm,0.1,0.1,0.1,1.0,1.0,0.5,0.5,0.5,0.5,0.5
+soil_moisture_5cm,0.5,0.1,0.1,0.5,0.5,1.0,1.0,0.5,0.5,0.5
+soil_moisture_20cm,0.5,0.1,0.1,0.5,0.5,1.0,1.0,0.5,0.5,0.5
+solar_radiation,1.0,0.5,0.5,1.0,1.0,0.5,0.5,1.0,0.5,1.0
+relative_humidity,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,1.0,0.5
+sunshine_duration,0.5,0.5,0.5,0.5,0.5,0.5,0.5,1.0,0.5,1.0
